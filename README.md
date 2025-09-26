@@ -19,6 +19,7 @@
       </ul>
     </td>
 
+    <!-- Kolom GIF -->
     <td style="width: 40%; text-align: center;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF0ajFteGk3c3duNnZycmswY2R6b3Jvc3Fld21ob2hkZXJ6dGVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
            alt="Coding GIF" width="250" style="border-radius: 10px;" />
@@ -27,6 +28,7 @@
 </table>
 
 <hr style="border: none; height: 1px; background: #ddd; margin: 30px auto; width: 80%;">
+
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melvin_crustacea) 
