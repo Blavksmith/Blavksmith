@@ -8,10 +8,10 @@
   <hr style="border: none; height: 2px; background: linear-gradient(to right, #4A90E2, #50E3C2); width: 60%; margin: 20px auto;">
 </div>
 
-<div style="font-family: 'Segoe UI', sans-serif; max-width: 700px; margin: auto;">
+<div style="font-family: 'Segoe UI', sans-serif; max-width: 700px; margin-bottom: 30px;">
   <h2 style="color: #4A90E2;">💫 About Me</h2>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF0ajFteGk3c3duNnZycmswY2R6b3Jvc3Fld21ob2hkZXJ6dGVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
-       alt="Coding GIF" width="320" style="border-radius: 10px; opacity: 0.8;" />
+       alt="Coding GIF" width="240" style="border-radius: 10px; opacity: 0.8;" />
   <ul style="list-style: none; padding-left: 0; line-height: 1.8em; color: #333;">
     <li>🎓 Computer Science undergraduate (5th semester)</li>
     <li>🔍 Passionate about exploring technologies in depth</li>
