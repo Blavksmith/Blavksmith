@@ -1,8 +1,8 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
   
-  <h1 style="font-size: 2.5em;">
+  <span style="font-size: 2.5em;">
   Welcome to my <span style="color: blue;">Github</span> <span style="color: green;">Profile!</span>
-</h1>
+</span>
 
   <p style="font-size: 1.2em; color: #555; max-width: 600px;">
     I love creating things that live on the internet — from simple landing pages to interactive web applications.
@@ -12,7 +12,7 @@
 </div>
 
 <div style="font-family: 'Segoe UI', sans-serif; max-width: 700px; margin-bottom: 30px;">
-  <h2 style="color: #4A90E2;">💫 About Me</h2>
+  <span style="color: #4A90E2;">💫 About Me</span>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF0ajFteGk3c3duNnZycmswY2R6b3Jvc3Fld21ob2hkZXJ6dGVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
        alt="Coding GIF" width="240" style="border-radius: 10px; opacity: 0.8;" />
   <ul style="list-style: none; padding-left: 0; line-height: 1.8em; color: #333;">
@@ -25,7 +25,8 @@
 </div>
 
 
-## 📊 GitHub Stats
+
+<span style="color: #4A90E2;">💫 About Me</span>
 ![](https://github-readme-stats.vercel.app/api?username=blavksmith&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=blavksmith&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blavksmith&theme=dark&hide_border=false&layout=compact)
