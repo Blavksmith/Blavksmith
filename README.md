@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
   
-  <h1 style="font-size: 2.5em; color: #4A90E2;">👋 Hey, I’m Melvin!</h1>
+  <h1 style="font-size: 2.5em; color: #4A90E2;">Welcome to my <h1 style="color:blue;"> Github Profile!</h1></h1>
   <p style="font-size: 1.2em; color: #555; max-width: 600px;">
     I love creating things that live on the internet — from simple landing pages to interactive web applications.
   </p>
