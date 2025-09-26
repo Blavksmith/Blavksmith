@@ -1,29 +1,32 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF0ajFteGk3c3duNnZycmswY2R6b3Jvc3Fld21ob2hkZXJ6dGVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
-       alt="Coding GIF" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
-  
   <h1 style="font-size: 2.5em; color: #4A90E2;">👋 Hey, I’m Melvin!</h1>
   <p style="font-size: 1.2em; color: #555; max-width: 600px;">
     I love creating things that live on the internet — from simple landing pages to interactive web applications.
   </p>
-  
   <hr style="border: none; height: 2px; background: linear-gradient(to right, #4A90E2, #50E3C2); width: 60%; margin: 20px auto;">
 </div>
 
-<div style="font-family: 'Segoe UI', sans-serif; max-width: 700px; margin: auto;">
-  <h2 style="color: #4A90E2;">💫 About Me</h2>
-  <ul style="list-style: none; padding-left: 0; line-height: 1.8em; color: #333;">
-    <li>🎓 Computer Science undergraduate (5th semester)</li>
-    <li>🔍 Passionate about exploring technologies in depth</li>
-    <li>🤝 Always excited to learn new things and collaborate on cool projects</li>
-    <li>🛠 Currently learning <strong>Laravel</strong> and <strong>Web3</strong></li>
-  </ul>
-  
-  <hr style="border: none; height: 1px; background: #ddd; margin: 30px 0;">
-</div>
+<table align="center" style="max-width: 900px; font-family: 'Segoe UI', sans-serif;">
+  <tr>
+    <!-- Kolom teks -->
+    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
+      <h2 style="color: #4A90E2;">💫 About Me</h2>
+      <ul style="list-style: none; padding-left: 0; line-height: 1.8em; color: #333;">
+        <li>🎓 Computer Science undergraduate (5th semester)</li>
+        <li>🔍 Passionate about exploring technologies in depth</li>
+        <li>🤝 Always excited to learn new things and collaborate on cool projects</li>
+        <li>🛠 Currently learning <strong>Laravel</strong> and <strong>Web3</strong></li>
+      </ul>
+    </td>
 
+    <td style="width: 40%; text-align: center;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF0ajFteGk3c3duNnZycmswY2R6b3Jvc3Fld21ob2hkZXJ6dGVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
+           alt="Coding GIF" width="250" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
----
+<hr style="border: none; height: 1px; background: #ddd; margin: 30px auto; width: 80%;">
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melvin_crustacea) 
